@@ -11,7 +11,7 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: https://jacknaimer.com/
+url: "jacknaimer.com" # https://jacknaimer.com/
 baseurl: "" #/sustain/
 title: Chris Turner
 author: Chris Turner
