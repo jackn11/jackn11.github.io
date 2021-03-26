@@ -13,17 +13,17 @@ safe: true
 # edit here to achieve your personal greatness
 url: "jacknaimer.com" # https://jacknaimer.com/
 baseurl: "" #/sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+title: Jack Naimer
+author: Jack Naimer
+description: Portfolio
 avatar: profile.png
-email: yourname@email.com
-github: jekyller/sustain # username
+email: jacknaimer@gmail.com
+github: jackn11 # username
 twitter: username
-linkedin: username
+linkedin: jack-naimer-490129181
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
-disqus: username
+#disqus: username
 google_analytics: UA-69391421-1
 
 
