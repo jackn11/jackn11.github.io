@@ -17,12 +17,12 @@ url: "jacknaimer.com" # https://jacknaimer.com/
 baseurl: "" #/sustain/
 title: Jack Naimer
 author: Jack Naimer
-description: My Personal Portfolio
+description: Jack Naimer
 avatar: profile.png
-email: jacknaimer@gmail.com
+email: jn@jacknaimer.com
 github: jackn11 # username
 twitter: username
-linkedin: jack-naimer-490129181
+linkedin: jacknaimer
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus: username
